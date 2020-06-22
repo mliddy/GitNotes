@@ -1,7 +1,9 @@
 ###	[Github basics](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * Github pages probably not needed. 
 * Gitbash (needed for windows) 
-
+###	[Git remote ](https://help.github.com/en/github/using-git/adding-a-remote) 
+* Git remote add **remoteName link**
+* Git remote -v 
 ###	Adding SSH
 * https://www.youtube.com/watch?v=H5qNpRGB7Qw 
 * https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account
