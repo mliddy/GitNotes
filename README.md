@@ -36,4 +36,4 @@
 * Git stash (need to add everything first[  git add . ] 
 * Git stash apply
 ###	Git log 
-###	Git cherry-pick <branch id> 
+###	Git cherry-pick [branch id] 
