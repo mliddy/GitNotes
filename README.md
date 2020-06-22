@@ -17,7 +17,7 @@
 * Will create remote branch if not exist. 
 ###	Git rebase 
 * Git rebase master
-* Git rebase <remote> <branch> 
+* Git rebase [remote] [branch] 
 ###	Branches
 * Git checkout -b [NewBranchName] 
 * Git checkout -d [BranchName to be deleted] 
